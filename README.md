@@ -18,7 +18,7 @@ As sentenças estão no arquivo `inputs/sentencas.txt` e foram escolhidas para r
 *Tela da ferramenta com as sentenças submetidas*
 
 ![Resultado da Análise](prints/resultado_analise.png)
-![Resultado da Análise](prints/resultado_analise2.png)
+![Resultado da Análise](prints/resultado_analise_2.png)
 ![Resultado da Análise](prints/resultado_analise_3.png)
 ![Resultado da Análise](prints/resultado_analise_4.png)
 ![Resultado da Análise](prints/resultado_analise_5.png)
