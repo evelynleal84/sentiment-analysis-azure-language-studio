@@ -23,6 +23,7 @@ As sentenças estão no arquivo `inputs/sentencas.txt` e foram escolhidas para r
 ![Resultado da Análise](prints/resultado_analise_4.png)
 ![Resultado da Análise](prints/resultado_analise_5.png)
 ![Resultado da Análise](prints/resultado_analise_6.png)
+
 *Resultado da análise com classificações e scores*
 
 ## 💡 Insights e Possibilidades
