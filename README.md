@@ -36,16 +36,4 @@ As sentenças estão no arquivo `inputs/sentencas.txt` e foram escolhidas para r
 - Gerar gráficos com os resultados usando Python + Matplotlib
 - Aplicar em dados reais de reviews de produtos
 
-## 👨‍💻 Autor
-
-Seu Nome — [seu perfil no GitHub](https://github.com/seuusuario)
-
----
-
-## 📎 Como Rodar o Projeto
-
-Você pode clonar este repositório e testar com suas próprias sentenças no Language Studio:
-
-```bash
-git clone https://github.com/seuusuario/nome-do-repo.git
 
