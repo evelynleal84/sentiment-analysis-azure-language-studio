@@ -36,10 +36,5 @@ As sentenças estão no arquivo `inputs/sentencas.txt` e foram escolhidas para r
   - Monitoramento de redes sociais
   - Chatbots mais empáticos
 
-## 🚀 Possíveis Melhorias
-
-- Automatizar o envio de sentenças via API do Azure
-- Gerar gráficos com os resultados usando Python + Matplotlib
-- Aplicar em dados reais de reviews de produtos
 
 
